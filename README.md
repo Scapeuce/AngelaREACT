@@ -1,2 +1,0 @@
-# AngelaREACT
-Created with CodeSandbox
